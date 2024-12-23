@@ -1,0 +1,1 @@
+This repository demonstrates a subtle calculation error in a chain of Hack functions. The `baz` function incorrectly calculates the result due to an unexpected interaction between the functions. The solution provides the correct implementation and explains the root cause of the error.
